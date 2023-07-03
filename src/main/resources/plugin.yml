@@ -1,0 +1,4 @@
+name: CommandHider
+version: '${version}'
+main: io.github.virtualvulpes.command_hider.CommandHider
+api-version: 1.16
